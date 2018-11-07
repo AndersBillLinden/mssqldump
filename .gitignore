@@ -1,0 +1,6 @@
+/packages
+/mssqldump/obj
+/mssqldump/bin
+/mssqldump.suo
+/mssqldump/mssqldump.csproj.user
+/.vs
